@@ -528,7 +528,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #fff;
-  background-color: #212529;
+  background-color: #00BFFF;
   border-radius: 0.2rem;
 }
 
@@ -2019,7 +2019,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #00BFFF;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
@@ -2610,13 +2610,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #00BFFF;
+  border-color: #00BFFF;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
+  background-color: #3398FF;
   border-color: #ee3e0d;
 }
 
@@ -3449,7 +3449,7 @@ input[type="button"].btn-block {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid #00BFFF;
 }
 
 .dropdown-item {
@@ -3458,7 +3458,7 @@ input[type="button"].btn-block {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  color: #212529;
+  color: #00BFFF;
   text-align: inherit;
   white-space: nowrap;
   background-color: transparent;
@@ -6909,7 +6909,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #00BFFF !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10567,7 +10567,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #00BFFF;
 }
 
 hr.light {
